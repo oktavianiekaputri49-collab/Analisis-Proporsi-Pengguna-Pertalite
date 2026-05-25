@@ -1,0 +1,62 @@
+📊 Estimasi Proporsi Penggunaan BBM Pertalite di Kota Surabaya
+Deskripsi
+Project ini membahas estimasi proporsi rumah tangga pengguna BBM Pertalite di Kota Surabaya menggunakan metode Stratified Random Sampling dan Systematic Sampling.
+Analisis dilakukan untuk memperoleh estimasi yang representatif terhadap populasi rumah tangga tanpa melakukan sensus secara penuh.
+Populasi dan Sampel
+Keterangan	Nilai
+Populasi Rumah Tangga	943.663
+Margin Error	5%
+Ukuran Sampel	400 rumah tangga
+
+Metode Sampling
+Stratified Random Sampling
+Stratifikasi dilakukan berdasarkan wilayah Surabaya:
+Surabaya Barat
+Surabaya Pusat
+Surabaya Selatan
+Surabaya Timur
+Surabaya Utara
+Hasil:
+Pengguna Pertalite = 290 rumah tangga
+Proporsi:
+p^=290/400=0.725
+
+Sehingga diperoleh estimasi:
+72.5%
+rumah tangga menggunakan BBM Pertalite.
+
+Systematic Sampling
+Interval sampel:
+k=N/n=943663/400≈2359
+Pengambilan sampel dilakukan setiap rumah tangga ke-2359.
+
+Hasil:
+Pengguna Pertalite = 284 rumah tangga
+Proporsi:
+p^=284/400=0.71
+Sehingga diperoleh estimasi:
+
+71%
+rumah tangga menggunakan BBM Pertalite.
+
+Tujuan Project
+Menentukan ukuran sampel rumah tangga
+Mengestimasi proporsi pengguna BBM Pertalite
+Menerapkan metode sampling statistik
+Membandingkan hasil stratifikasi dan sistematik
+
+Insight
+Metode sampling memungkinkan estimasi karakteristik populasi secara efisien tanpa harus melakukan sensus penuh terhadap seluruh rumah tangga di Kota Surabaya.
+Hasil analisis menunjukkan bahwa sebagian besar rumah tangga di Surabaya menggunakan BBM Pertalite.
+
+Tools
+Microsoft Excel
+Statistik Sampling
+Survey Sampling
+Stratified Random Sampling
+Systematic Sampling
+
+Penutup
+Project ini merupakan implementasi teknik sampling statistik untuk memahami proses estimasi proporsi populasi menggunakan metode survei yang representatif dan efisien.
+
+#Statistika #Sampling #Survey #DataAnalysis #Excel #Statistics #SamplingMethod
